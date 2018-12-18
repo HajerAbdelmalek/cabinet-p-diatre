@@ -1,1 +1,1 @@
-# cabinet-p-diatre
+# cabinet-pediatre
